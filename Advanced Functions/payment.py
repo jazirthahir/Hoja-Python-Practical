@@ -8,5 +8,3 @@ coupon = 40
 
 grand_total = payment(total,gst,coupon)
 print(grand_total)
-
-  
